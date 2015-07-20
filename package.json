@@ -1,0 +1,15 @@
+{
+  "name": "@mohayonao/wave-tables",
+  "description": "wave tables",
+  "version": "0.1.0",
+  "author": "mohayonao <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mohayonao/wave-tables/issues"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mohayonao/wave-tables.git"
+  }
+}
